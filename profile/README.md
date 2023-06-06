@@ -1,3 +1,3 @@
-## QUALSA
+## Quantitative Life Sciences Association
 
-Quantitative Life Sciences Student Association
+Student association for McGill University's Quantitative Life Sciences interdisciplinary PhD program.
